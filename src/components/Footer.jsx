@@ -194,10 +194,11 @@ const Footer = () => {
           <div>
             <h4 className="text-base font-semibold mb-3">Programs</h4>
             <ul className="space-y-1 text-sm">
-              <li><a href="#" className="hover:text-[#C89A31]">Education</a></li>
-              <li><a href="#" className="hover:text-[#C89A31]">Health</a></li>
-              <li><a href="#" className="hover:text-[#C89A31]">Skill Development</a></li>
-              <li><a href="#" className="hover:text-[#C89A31]">Women Empowerment</a></li>
+              <li><a href="empowering-children-through-education" className="hover:text-[#C89A31]">Education</a></li>
+              <li><a href="healthcare-for-every-family" className="hover:text-[#C89A31]">Health</a></li>
+              <li><a href="women-leadership-initiative" className="hover:text-[#C89A31]">Skill Development</a></li>
+              <li><a href="building-strong-communities" className="hover:text-[#C89A31]">Women Empowerment</a></li>
+              <li><a href="skill-development-for-youth" className="hover:text-[#C89A31]">Skill Development</a></li>
             </ul>
           </div>
 
@@ -219,8 +220,8 @@ const Footer = () => {
           </p>
 
           <div className="flex gap-4">
-            <a href="#" className="text-gray-400 hover:text-[#C89A31] text-xs">Privacy</a>
-            <a href="#" className="text-gray-400 hover:text-[#C89A31] text-xs">Terms</a>
+            <a href="privacyPolicy" className="text-gray-400 hover:text-[#C89A31] text-xs">Privacy</a>
+            <a href="terms" className="text-gray-400 hover:text-[#C89A31] text-xs">Terms</a>
           </div>
 
         </div>

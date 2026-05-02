@@ -112,10 +112,10 @@ const Gallery = () => {
                   {item.title}
                 </h3>
 
-                <div className="flex items-center gap-2 text-white font-medium">
+                {/* <div className="flex items-center gap-2 text-white font-medium">
                   <FaImages />
                   <span>View Photo</span>
-                </div>
+                </div> */}
               </div>
             </motion.div>
           ))}

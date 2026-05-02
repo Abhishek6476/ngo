@@ -93,7 +93,7 @@ const Programs = () => {
 
                 {/* BUTTON */}
                 <Link
-                  to="/programs"
+                  to="programs"
                   className="mt-auto inline-flex items-center justify-center gap-2 w-full py-3 rounded-xl bg-[#C89A31] text-white font-semibold hover:bg-[#b88728] transition-all duration-300"
                 >
                   Learn More
